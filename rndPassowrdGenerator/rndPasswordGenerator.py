@@ -7,9 +7,3 @@ def password_generator(size=15, chars=(string.ascii_uppercase + string.ascii_low
 #change 'size' for password length
 
 print(password_generator())
-
-
-
-
-
-
